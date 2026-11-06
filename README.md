@@ -1,10 +1,10 @@
-# test-github
+# API REST de gestion de taches
 
 API REST de gestion de taches avec Node.js et Express.
 
 ## Demarrage du projet
 
-Prerequis : Node.js 22 ou une version recent.
+Prerequis : Node.js 22 ou plus recent.
 
 ```sh
 npm install
