@@ -2,9 +2,9 @@
 
 API REST de gestion de taches avec Node.js et Express.
 
-## Demarrage
+## Demarrage du projet
 
-Prerequis : Node.js 22 ou plus recent.
+Prerequis : Node.js 22 ou une version recent.
 
 ```sh
 npm install
